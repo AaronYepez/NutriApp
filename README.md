@@ -7,5 +7,5 @@ Proyecto Final en equipo de Aaron Yépez Méndez y Jorge Ulises Sosa Ferman
 #### Integrantes
 - Jorge Ulises Sosa Ferman
 ![Texto alternativo](/sosin.jpg "Jorge Ulises Sosa Ferman")
-![Texto alternativo](/MylLove.jpg "Aaron Yepez Mendez")
+-<img src="https://github.com/AaronYepez/NutriApp/blob/main/MyLove.jpg" alt="Foto" width="25%" height="25%">
 
