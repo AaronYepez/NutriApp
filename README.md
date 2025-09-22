@@ -8,7 +8,7 @@ Proyecto Final en equipo de Aaron Yépez Méndez y Jorge Ulises Sosa Ferman
 ### Integrantes
 #### *Jorge Ulises Sosa Ferman*
 -<img src="https://github.com/AaronYepez/NutriApp/blob/main/sosin.jpg" alt="Foto" width="25%" height="25%">
-**Nombre completo:** Sosa Fermán Jorge Ulises  
+- **Nombre completo:** Sosa Fermán Jorge Ulises  
 - **Edad:** 17 años  
 - **Escuela:** CETis 61  
 - **Especialidad:** Programación  
